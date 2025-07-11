@@ -1,0 +1,12 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Temporary or backup files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Microsoft Word temp files
+~$*
